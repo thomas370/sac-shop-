@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+
+
+.container{
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    width: 1100px;
+    margin: 100px auto;
+}
+
+h1{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Mukta Mahee', sans-serif;
+    font-weight:800;
+}
+
+.container1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 40px 100px;
+}
+
+ .box3 .box4 .box5 .box6{
+    display: flex;
+    flex-direction: column;
+ }
+
+h2{
+    font-size: 18px;
+    color: grey;
+    font-weight: 100;
+    
+
+}
+
+p{
+    margin-top: -10px;
+    font-size:  25px;
+    font-family: 'Mukta Mahee', sans-serif;
+    font-weight : 800;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+
+hr{
+    width: 100px;
+    height: 2px;
+    background-color: black;
+}
+
